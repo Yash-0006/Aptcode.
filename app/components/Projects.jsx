@@ -5,19 +5,19 @@ export default function Projects() {
   const projects = [
     {
       id: 1,
-      title: "ChipSphere",
-      description: "An ECE-centric educational platform providing curated resources, interactive quizzes, and tools to support students in electronics and communication engineering.",
-      image: "/assets/chipsphere.png",
-      tags: ["Next.js", "Node.js", "Tailwind CSS"],
-      link: "https://www.chipsphere.in",
-    },
-    {
-      id: 2,
       title: "Aaranal",
       description: "A full-stack eCommerce website for a tote bag business, featuring a responsive storefront, secure payment integration, and an admin dashboard for managing products and orders.",
       image: "/assets/aaranal.png",
       tags: ["Next.js", "Razorpay API", "AWS"],
       link: "https://aaranaltales.shop",
+    },
+    {
+      id: 2,
+      title: "ChipSphere",
+      description: "An ECE-centric educational platform providing curated resources, interactive quizzes, and tools to support students in electronics and communication engineering.",
+      image: "/assets/chipsphere.png",
+      tags: ["Next.js", "Node.js", "Tailwind CSS"],
+      link: "https://www.chipsphere.in",
     }
   ];
 
