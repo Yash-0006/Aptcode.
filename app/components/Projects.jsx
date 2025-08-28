@@ -47,7 +47,7 @@ export default function Projects() {
                     <img
                       src={project.image}
                       alt={project.title}
-                      className="w-full h-64 object-cover rounded-xl group-hover:scale-105 transition-transform duration-300"
+                      className="w-full h-64 object-cover object-left rounded-xl group-hover:scale-105 transition-transform duration-300"
                     />
                   </div>
                   <div className="text-left">

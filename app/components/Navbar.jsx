@@ -112,7 +112,7 @@ export default function Navbar() {
         {/* Mobile Navigation Menu */}
         {isMobile && (
           <div
-            className={`fixed top-0 right-0 h-screen w-64 bg-black/70 backdrop-blur-[20px] border-l border-white/10 shadow-lg z-[1001] transform transition-transform duration-300 ease-in-out ${
+            className={`fixed top-0 right-0 h-screen w-64 bg-gradient-to-b from-black to-gray-900 backdrop-blur-sm border-l border-white/20 shadow-lg z-[1001] transform transition-transform duration-300 ease-in-out ${
               menuOpen ? "translate-x-0" : "translate-x-full"
             }`}
           >
