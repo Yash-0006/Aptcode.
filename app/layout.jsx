@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: {
-    default: "Aptcode - Solutions Engineered with Precision",
+    default: "Aptcode | Web and App Dev studio",
     template: "%s | Aptcode",
   },
   description:
@@ -66,7 +66,8 @@ export const metadata = {
     },
   },
   verification: {
-    google: "your-google-verification-code", // Replace with actual verification code
+    google: "_Y6WuoLhRnltszPurcSubPPC9IrzgmgW8jiX9U0kTZg",
+     // Replace with actual verification code
     // yandex: "your-yandex-verification-code",
     // yahoo: "your-yahoo-verification-code",
   },
