@@ -31,7 +31,7 @@ export const metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "Aptcode - Web & App dev Studio",
+    title: "Aptcode - Dev Studio",
     description:
       "We build custom websites, mobile apps, and software solutions tailored for small and mid-sized businesses. Aptcode engineers your ideas into reality while helping you learn and adapt to technology.",
     url: "https://www.aptcode.in",
@@ -49,7 +49,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Aptcode - Web & App dev Studio",
+    title: "Aptcode - Dev Studio",
     description:
       "We deliver custom websites, mobile apps, and tailored technology solutions to grow your business.",
     images: ["/twitter-image.jpg"],
