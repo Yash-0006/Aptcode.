@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "Aptcode.",
+  "short_name": "Aptcode.",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -15,7 +15,7 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#06070c",
-  "background_color": "#06070c",
+  "theme_color": "#1d253a",
+  "background_color": "#1d253a",
   "display": "standalone"
 }
